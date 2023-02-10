@@ -1,1 +1,1 @@
-fresh task
+new task
